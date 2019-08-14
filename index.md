@@ -26,3 +26,10 @@ _P.S. Basta coi post flame co 500 commenti e con le discussioni che si ripetono 
 ## starterpack
 qui una piccolissima lista di libri che pensiamo possano servire come base per capirne qualcosa in più: 
 ![starterpack](starterpack.png)
+
+
+## glossario
+[qui](https://docs.google.com/document/d/176J9tc8bgCLtbAkWr0Wl6O8rpp71IrPT8XLccH43zcE/edit?fbclid=IwAR0ZTGuRKEnuJF4EqBh3EvW9AAH4-2m5cvy4sBZWcs6MDSjtss_KFvOLXeQ) un vecchio, incompleto ma sempre utile glossario della terminologia
+
+## compendio
+[qui](https://docs.google.com/document/d/176J9tc8bgCLtbAkWr0Wl6O8rpp71IrPT8XLccH43zcE/edit?fbclid=IwAR0ZTGuRKEnuJF4EqBh3EvW9AAH4-2m5cvy4sBZWcs6MDSjtss_KFvOLXeQ) un vecchio, incompleto ma sempre utile compendio
