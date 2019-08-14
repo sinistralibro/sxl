@@ -21,3 +21,8 @@ _P.S. Basta coi post flame co 500 commenti e con le discussioni che si ripetono 
 3. politics ok ma basta uberflames
 4. checkiamo i nostri privilegi e leggiamo la stanza
 5. socialita', un bicchiere di vino con un panino la socialita'
+
+
+## starterpack
+qui una piccolissima lista di libri che pensiamo possano servire come base per capirne qualcosa in più: 
+![starterpack](starterpack.png)
