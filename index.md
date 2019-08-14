@@ -33,3 +33,10 @@ qui una piccolissima lista di libri che pensiamo possano servire come base per c
 
 ## compendio
 [qui](https://docs.google.com/document/d/1EEya46_94LaJFyi2ELBjV4qQEawlEsYzEpwMuVvATmk/edit?fbclid=IwAR2ai9uiML81E9LqjMhoaU2d-pJcKZKycoVxBMeUqndNub3LFV2JpSZQRdA) un vecchio, incompleto ma sempre utile compendio
+
+
+## musica
+[qui](https://open.spotify.com/playlist/5iSaayusgOLLfxIISDddYe?fbclid=IwAR14VB5StfPZNPIuBdApbMUcn_kL8ekPaCJkSgHoIedxCJ4ZL1wKsoCjx6U) una playlist su spotify, perché sì
+
+## video
+[qui](https://www.youtube.com/playlist?list=PLUlQ-626SsgWAe9MA3W0r3d1KBrxQH_UX&jct=o0v4wk0ym-pfBfL69CLX_euECQ01Gw&fbclid=IwAR0YBRCc7UDdKpAeWSz0zPKnrmRtqNF1GuL0VAMqXEyDgQmGaae_TeO5QEg) una interessante raccolta di video considerati abbastanza lefty
