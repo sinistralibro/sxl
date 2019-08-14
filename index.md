@@ -32,4 +32,4 @@ qui una piccolissima lista di libri che pensiamo possano servire come base per c
 [qui](https://docs.google.com/document/d/176J9tc8bgCLtbAkWr0Wl6O8rpp71IrPT8XLccH43zcE/edit?fbclid=IwAR0ZTGuRKEnuJF4EqBh3EvW9AAH4-2m5cvy4sBZWcs6MDSjtss_KFvOLXeQ) un vecchio, incompleto ma sempre utile glossario della terminologia
 
 ## compendio
-[qui](https://docs.google.com/document/d/176J9tc8bgCLtbAkWr0Wl6O8rpp71IrPT8XLccH43zcE/edit?fbclid=IwAR0ZTGuRKEnuJF4EqBh3EvW9AAH4-2m5cvy4sBZWcs6MDSjtss_KFvOLXeQ) un vecchio, incompleto ma sempre utile compendio
+[qui](https://docs.google.com/document/d/1EEya46_94LaJFyi2ELBjV4qQEawlEsYzEpwMuVvATmk/edit?fbclid=IwAR2ai9uiML81E9LqjMhoaU2d-pJcKZKycoVxBMeUqndNub3LFV2JpSZQRdA) un vecchio, incompleto ma sempre utile compendio
